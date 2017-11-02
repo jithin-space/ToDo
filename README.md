@@ -10,10 +10,10 @@ This repository contains the activities that needs to be completed by me or to b
         1. ~~Image Sequencing~~
         2. Image Pair
 
-            *. ~First Phase Code Submission~
-            *. ~Obtained New Design~
-            *. ~Second Phase Code Submission~
-            *. **Third Phase Code Submission**
+            * ~First Phase Code Submission~
+            * ~Obtained New Design~
+            * ~Second Phase Code Submission~
+            * **Third Phase Code Submission**
             
         3. WordFind Game
             *. ~First Phase Code Submission~
