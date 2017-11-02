@@ -16,8 +16,9 @@ This repository contains the activities that needs to be completed by me or to b
             * **Third Phase Code Submission**
             
         3. WordFind Game
-            *. ~First Phase Code Submission~
-            *. **Waiting For Response**
+
+            * ~First Phase Code Submission~
+            * **Waiting For Response**
 
         4. Image Grid
             * ~Requested Design ~
@@ -92,7 +93,8 @@ This repository contains the activities that needs to be completed by me or to b
     2. Git Repository
         1. ~created~
         2. status
-            *update pending*
+
+            * **update pending**
     3. Plan Possibilities
 
 4. Drupal 
