@@ -22,18 +22,25 @@ This repository contains the activities that needs to be completed by me or to b
 
         4. Image Grid
             * ~Requested Design ~
-            * **Waiting For Response**
-
+            * ~Obtained Design~
+            * **Student Project Activity**
+            
         5. Hangman Game ( For Students)
+            * **Find an alternative idea**
+            * **Request Design Upon Image Pair Response**
         6. Storyline
-        7. ?
+            * **Need to check the status upon Image Pair Response**
+
+        7. ? 
         8. ?
 
-    2. Mozilla Proposal
+    2. ~~Mozilla Proposal~~
 
         1. ~~Submitted Application~~
+        2. ~~Application Rejected~~
 
-    3. H5P Workshop
+    3. ~~H5P Workshop~~
+        1. ~~Palakkad-November~~
     4. H5P Swatantra
 
         1. Speech At Swatantra
@@ -100,6 +107,11 @@ This repository contains the activities that needs to be completed by me or to b
 4. Drupal 
 
     1. Learn Drupal
+        * ~~chapter1~~
+        * ~~chapter2~~
+        * ~~chapter3~~
+        * ~~chapter4~~
+        * ~~chapter5~~
     2. Build an Environment
     3. Personal Website
     4. Space Site Customize
