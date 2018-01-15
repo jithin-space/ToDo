@@ -13,25 +13,31 @@ This repository contains the activities that needs to be completed by me or to b
             * ~First Phase Code Submission~
             * ~Obtained New Design~
             * ~Second Phase Code Submission~
-            * **Third Phase Code Submission**
+            * ~Third Phase Code Submission~
+            *  **Fourth Phase Code Submission**
             
         3. WordFind Game
 
             * ~First Phase Code Submission~
-            * **Waiting For Response**
+            * ~Waiting For Response~
+            * **Obtained Feedback.Work in Pending**
 
         4. Image Grid
             * ~Requested Design ~
             * ~Obtained Design~
-            * **Student Project Activity**
+            * **Student Project Activity in Progress**
             
         5. Hangman Game ( For Students)
-            * **Find an alternative idea**
-            * **Request Design Upon Image Pair Response**
+            * ~Find an alternative idea~
+            * ~Request Design Upon Image Pair Response~
+            * **Assign Bibin to prepare a Standared Design**
+            * **Student Project Activity in Progress**
         6. Storyline
-            * **Need to check the status upon Image Pair Response**
+            * **Need to find a Developer for that Task**
 
-        7. ? 
+        7. Crosswords Game
+            * **Asked Anathan Unni to work on that**
+
         8. ?
 
     2. ~~Mozilla Proposal~~
@@ -41,20 +47,24 @@ This repository contains the activities that needs to be completed by me or to b
 
     3. ~~H5P Workshop~~
         1. ~~Palakkad-November~~
+        2. ~~Workshop on ICT~~
     4. H5P Swatantra
-
-        1. Speech At Swatantra
-            1. Presentation Using H5P
-            2. Speech Content Preparation
+        1. ~~Speech At Swatantra~~
 
     5. Content Type Update
 
         1. Image Sequencing
-            1. xApi Support
+            1. ~~xApi Support~~
             2. Resume Functionality
-            3. Audio For Each Card
+            3. ~~Audio For Each Card~~
             4. Responsiveness Redesign
-            5. Image Editor To Add
+            5. ~~Image Editor To Add~~
+            6. Problem with Mac
+            7. **Create an issue on Update**
+    6. H5P Foss Asia
+        1. ~~Submitted Proposal~~
+    7. H5P Team @ Space
+        1. ~~ Request Letter Sent~~
 
 2. Next Year Projects        
 
@@ -64,8 +74,12 @@ This repository contains the activities that needs to be completed by me or to b
     4. Spin-v2
     5. Women Hackathon
     6. Alternative Training
-    7. NSS Project
-
+    7. NSS Project& OSM mapping
+    8. Godot Proposal for Arvind
+    9. ChatBot & Projection Mapping
+    10. Gcompris Updation
+    11. Asistive Technology 
+    
 ## Learning Activities
 
 1. Docker Technology
@@ -112,9 +126,14 @@ This repository contains the activities that needs to be completed by me or to b
         * ~~chapter3~~
         * ~~chapter4~~
         * ~~chapter5~~
+        * ~~chapter20~~
     2. Build an Environment
     3. Personal Website
     4. Space Site Customize
+        * ~~prepare the structure~~
+        * **prepare the Design**
+        * themeing basics
+    
 5. Android 
 
     1. Make Plan
@@ -130,12 +149,14 @@ This repository contains the activities that needs to be completed by me or to b
     1. H5P Content Types
         1. Getting Their Feedbacks
         2. Giving Suggestions
+            * ~~Created a Drag & Drop Demo for Insight~~
+    2. H5P Portal For Insight
 
 8. Space SummerCamp
 9. Space Booklet
-
-
-
+10. Qt + Gcompris
+    * ~~Communication thread to Timothee~~
+    * **update quickly**
 
 
 
