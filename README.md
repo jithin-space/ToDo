@@ -20,7 +20,9 @@ This repository contains the activities that needs to be completed by me or to b
 
             * ~First Phase Code Submission~
             * ~Waiting For Response~
-            * **Obtained Feedback.Work in Pending**
+            * ~Obtained Response~
+	    * ~Second Phase Development Completed~
+	    * **Issue Submission In Pending**
 
         4. Image Grid
             * ~Requested Design ~
@@ -30,7 +32,10 @@ This repository contains the activities that needs to be completed by me or to b
         5. Hangman Game ( For Students)
             * ~Find an alternative idea~
             * ~Request Design Upon Image Pair Response~
-            * **Assign Bibin to prepare a Standared Design**
+            * ~Assign Bibin to prepare a Standared Design~
+	    * ~Submitted an issue based on his design~
+	    * ~Obtained feedback on the review~
+	    * ** Design Updation Pending **
             * **Student Project Activity in Progress**
         6. Storyline
             * **Need to find a Developer for that Task**
@@ -63,8 +68,14 @@ This repository contains the activities that needs to be completed by me or to b
             7. **Create an issue on Update**
     6. H5P Foss Asia
         1. ~~Submitted Proposal~~
+	2. ~~Accepted the Proposal~~
+	3. ~~Not going for the event~~
     7. H5P Team @ Space
         1. ~~ Request Letter Sent~~
+	2. ~~ Received Support assurance from H5P Team ~~
+	3. ~~ Discussion with ICFOSS ~~
+	4. ~~ Prepared the Proposal ~~
+	5. ~~ Submitted for Review ( Arun chettan )~~
 
 2. Next Year Projects        
 
@@ -72,6 +83,8 @@ This repository contains the activities that needs to be completed by me or to b
     2. H5P
     3. Android
     4. Spin-v2
+	1. ~First Phase Proposal is prepared~
+	2. ** Under Review (Arun chettan) **
     5. Women Hackathon
     6. Alternative Training
     7. NSS Project& OSM mapping
@@ -79,6 +92,9 @@ This repository contains the activities that needs to be completed by me or to b
     9. ChatBot & Projection Mapping
     10. Gcompris Updation
     11. Asistive Technology 
+	1. ~First Meeting With Aswanth~
+	2. ~Second Meeting With Aswanth & Flip Mouse ~
+	3. ** Feasibility of eye tracking **
     
 ## Learning Activities
 
@@ -132,7 +148,9 @@ This repository contains the activities that needs to be completed by me or to b
     4. Space Site Customize
         * ~~prepare the structure~~
         * **prepare the Design**
-        * themeing basics
+        * ~ Selected a theme~
+	* ~ Prepared the structure ~
+	* **Content Creation Required**
     
 5. Android 
 
@@ -157,6 +175,7 @@ This repository contains the activities that needs to be completed by me or to b
 10. Qt + Gcompris
     * ~~Communication thread to Timothee~~
     * **update quickly**
+11. E-commerce portal For Social Justice Dept
 
 
 
