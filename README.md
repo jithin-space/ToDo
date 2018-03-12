@@ -7,84 +7,93 @@ This repository contains the activities that needs to be completed by me or to b
 1. H5P 
     1. Content Type Development
 
-        1. ~~Image Sequencing~~
+        1. Image Sequencing
+            * ~v1 accepted~
+            * ~issue for v2 is submitted~
+            * **Waiting For Response**
         2. Image Pair
 
             * ~First Phase Code Submission~
             * ~Obtained New Design~
             * ~Second Phase Code Submission~
             * ~Third Phase Code Submission~
-            *  **Fourth Phase Code Submission**
+            * ~Fourth Phase Code Submission~
+            * ~Fifth Phase Code Submission~
+            * **Waiting For Response**
             
         3. WordFind Game
 
             * ~First Phase Code Submission~
             * ~Waiting For Response~
             * ~Obtained Response~
-	    * ~Second Phase Development Completed~
-	    * **Issue Submission In Pending**
+	        * ~Second Phase Code Submitted~
+            * **Waiting For Response**
 
         4. Image Grid
             * ~Requested Design ~
             * ~Obtained Design~
-            * **Student Project Activity in Progress**
+            * ~Basic Functionality is implemented~
+            * **Student development in Progress**
             
         5. Hangman Game ( For Students)
-            * ~Find an alternative idea~
-            * ~Request Design Upon Image Pair Response~
             * ~Assign Bibin to prepare a Standared Design~
-	    * ~Submitted an issue based on his design~
-	    * ~Obtained feedback on the review~
-	    * ** Design Updation Pending **
-            * **Student Project Activity in Progress**
+            * ~Bibin's Proposal got reviewed & accepted~
+            * **Student Development in Progress**
+            * **Sabitha Can be Assigned Parallel Development**
+
         6. Storyline
-            * **Need to find a Developer for that Task**
+            * **Sabitha Can be assigned its development**
 
         7. Crosswords Game
-            * **Asked Anathan Unni to work on that**
+            * ~asked Anathan Unni to work on that~
+            * 
+        8. Diagram Creator
+        9. H5P Meta Data Handling
+        10. Desktop App For H5P
+ 
 
-        8. ?
+    2. ~Mozilla Proposal~
 
-    2. ~~Mozilla Proposal~~
+        1. ~Submitted Application~
+        2. ~Application Rejected~
 
-        1. ~~Submitted Application~~
-        2. ~~Application Rejected~~
+    3. ~H5P Workshop~
 
-    3. ~~H5P Workshop~~
-        1. ~~Palakkad-November~~
-        2. ~~Workshop on ICT~~
-    4. H5P Swatantra
-        1. ~~Speech At Swatantra~~
+        1. ~Palakkad-November~
+        2. ~Workshop on ICT~
 
-    5. Content Type Update
+    4. ~H5P Swatantra~
 
-        1. Image Sequencing
-            1. ~~xApi Support~~
-            2. Resume Functionality
-            3. ~~Audio For Each Card~~
-            4. Responsiveness Redesign
-            5. ~~Image Editor To Add~~
-            6. Problem with Mac
-            7. **Create an issue on Update**
-    6. H5P Foss Asia
-        1. ~~Submitted Proposal~~
-	2. ~~Accepted the Proposal~~
-	3. ~~Not going for the event~~
+        1. ~Speech At Swatantra~
+
+    5. ~H5P Foss Asia~
+
+        1. ~Submitted Proposal~
+    	2. ~Accepted the Proposal~
+	    3. ~Not going for the event~
+
+    6. ~ H5P Project Winding Up~
+        1. ~Prepared Report~
+        2. ~Winding Up Approved By ICFOSS
+
     7. H5P Team @ Space
-        1. ~~ Request Letter Sent~~
-	2. ~~ Received Support assurance from H5P Team ~~
-	3. ~~ Discussion with ICFOSS ~~
-	4. ~~ Prepared the Proposal ~~
-	5. ~~ Submitted for Review ( Arun chettan )~~
+        1. ~ Request Letter Sent~
+    	2. ~ Received Support assurance from H5P Team ~
+    	3. ~ Discussion with ICFOSS ~
+    	4. ~ Prepared the Proposal ~
+    	5. ~ Proposal Approved ~
 
 2. Next Year Projects        
 
     1. Machine Learning
+        * **Proposal under preparation**
     2. H5P
-    3. Android
-    4. Spin-v2
-	1. ~First Phase Proposal is prepared~
-	2. ** Under Review (Arun chettan) **
+        * **Approved**
+    3. Spin-v2
+	    1. ~First Phase Proposal is prepared~
+	    2. ~Proposal is ready~
+        3. **Waiting For Some Deployments**
+        4. **Need to Prepare Plan**
     5. Women Hackathon
     6. Alternative Training
     7. NSS Project& OSM mapping
@@ -92,9 +101,9 @@ This repository contains the activities that needs to be completed by me or to b
     9. ChatBot & Projection Mapping
     10. Gcompris Updation
     11. Asistive Technology 
-	1. ~First Meeting With Aswanth~
-	2. ~Second Meeting With Aswanth & Flip Mouse ~
-	3. ** Feasibility of eye tracking **
+    	1. ~First Meeting With Aswanth~
+    	2. ~Second Meeting With Aswanth & Flip Mouse ~
+    	3. ** Feasibility of eye tracking **
     
 ## Learning Activities
 
@@ -137,18 +146,19 @@ This repository contains the activities that needs to be completed by me or to b
 4. Drupal 
 
     1. Learn Drupal
-        * ~~chapter1~~
-        * ~~chapter2~~
-        * ~~chapter3~~
-        * ~~chapter4~~
-        * ~~chapter5~~
-        * ~~chapter20~~
+        * ~chapter1~
+        * ~chapter2~
+        * ~chapter3~
+        * ~chapter4~
+        * ~chapter5~
+        * ~chapter20~
     2. Build an Environment
     3. Personal Website
     4. Space Site Customize
-        * ~~prepare the structure~~
+        * ~prepare the structure~
         * **prepare the Design**
         * ~ Selected a theme~
+        * ~ Bootstrap Layout Building In Progress~
 	* ~ Prepared the structure ~
 	* **Content Creation Required**
     
@@ -167,15 +177,14 @@ This repository contains the activities that needs to be completed by me or to b
     1. H5P Content Types
         1. Getting Their Feedbacks
         2. Giving Suggestions
-            * ~~Created a Drag & Drop Demo for Insight~~
+            * ~Created a Drag & Drop Demo for Insight~
     2. H5P Portal For Insight
 
 8. Space SummerCamp
 9. Space Booklet
 10. Qt + Gcompris
-    * ~~Communication thread to Timothee~~
+    * ~Communication thread to Timothee~
     * **update quickly**
-11. E-commerce portal For Social Justice Dept
 
 
 
