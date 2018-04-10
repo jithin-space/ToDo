@@ -81,6 +81,15 @@ This repository contains the activities that needs to be completed by me or to b
     7. Ambulance Tracking
     8. Assistive Technology
     
+## Interesting Technologies to Explore
+
+*keep one at a time*
+
+1. Qt
+    1. In progress
+2. ?
+
+
 ## Learning Activities
 
 1. Docker Technology
