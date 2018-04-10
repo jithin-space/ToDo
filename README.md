@@ -42,40 +42,23 @@ This repository contains the activities that needs to be completed by me or to b
             * **Sabitha Can be Assigned Parallel Development**
 
         6. Storyline
-            * **Sabitha Can be assigned its development**
-
-        7. Crosswords Game
-            * ~asked Anathan Unni to work on that~
-            * 
-        8. Diagram Creator
-        9. H5P Meta Data Handling
-        10. Desktop App For H5P
+            * **Preliminary works in progress**
+        7. Random Picker
+        8. Simple Draw
+        9. Mark The Letter
+        10. Text Hotspot
+        11. Crosswords Game *parallel activity*
+        12. H5P Chart Improvement *parallel activity*
+        13. Mind Map / Diagram creator *parallel activity*
+        14. H5P Meta Data Handling *advanced activity*
+        15. Desktop App For H5P *advanced activity*
  
 
-    2. ~Mozilla Proposal~
-
-        1. ~Submitted Application~
-        2. ~Application Rejected~
-
-    3. ~H5P Workshop~
-
-        1. ~Palakkad-November~
-        2. ~Workshop on ICT~
-
-    4. ~H5P Swatantra~
-
-        1. ~Speech At Swatantra~
-
-    5. ~H5P Foss Asia~
-
-        1. ~Submitted Proposal~
-    	2. ~Accepted the Proposal~
-	    3. ~Not going for the event~
-
-    6. ~ H5P Project Winding Up~
-        1. ~Prepared Report~
-        2. ~Winding Up Approved By ICFOSS
-
+    2. ~Mozilla Proposal<2017>~
+    3. ~H5P Workshop<2017>~
+    4. ~H5P Swatantra<2017>~
+    5. ~H5P Foss Asia<2017>~
+    6. ~ H5P Project Winding Up<2017>~
     7. H5P Team @ Space
         1. ~ Request Letter Sent~
     	2. ~ Received Support assurance from H5P Team ~
@@ -83,27 +66,20 @@ This repository contains the activities that needs to be completed by me or to b
     	4. ~ Prepared the Proposal ~
     	5. ~ Proposal Approved ~
 
-2. Next Year Projects        
+2. Current Year Projects Ideas        
 
-    1. Machine Learning
-        * **Proposal under preparation**
-    2. H5P
-        * **Approved**
-    3. Spin-v2
+    1. Spin-v2
 	    1. ~First Phase Proposal is prepared~
 	    2. ~Proposal is ready~
         3. **Waiting For Some Deployments**
         4. **Need to Prepare Plan**
-    5. Women Hackathon
-    6. Alternative Training
-    7. NSS Project& OSM mapping
-    8. Godot Proposal for Arvind
-    9. ChatBot & Projection Mapping
-    10. Gcompris Updation
-    11. Asistive Technology 
-    	1. ~First Meeting With Aswanth~
-    	2. ~Second Meeting With Aswanth & Flip Mouse ~
-    	3. ** Feasibility of eye tracking **
+    2. Chatbot 4 CDIT
+    3. Educational Game Preparation 4 CDIT
+    4. Training Programmes
+    5. Gcompris Updation
+    6. Testing & Web security
+    7. Ambulance Tracking
+    8. Assistive Technology
     
 ## Learning Activities
 
