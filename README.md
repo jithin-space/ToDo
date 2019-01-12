@@ -2,25 +2,16 @@
 
 This repository contains the activities that needs to be completed by me or to be in my focus. It is a personal repository and other users wouldnot find any meaningful information from here.
 
+## My Priorities
+
+
 ## Technical Activities
 
 1. H5P 
     1. Content Type Development
 
         1. Image Sequencing
-            * ~v1 accepted~
-            * ~issue for v2 is submitted~
-            * **Waiting For Response**
         2. Image Pair
-
-            * ~First Phase Code Submission~
-            * ~Obtained New Design~
-            * ~Second Phase Code Submission~
-            * ~Third Phase Code Submission~
-            * ~Fourth Phase Code Submission~
-            * ~Fifth Phase Code Submission~
-            * **Waiting For Response**
-            
         3. WordFind Game
 
             * ~First Phase Code Submission~
