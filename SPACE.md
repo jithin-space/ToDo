@@ -8,13 +8,14 @@
     2. 10 new members
 3. FOSS AT Labs
     1. Initial Proposal Submitted
-    2. Reminder
+    2. Reminder Given
+    3. Detailed Proposal Requested.
 4. H5P
     1. Content Type Development
-        1. Mark The Letters
-        2. Find The Words
-        3. Image Grid
-        4. Hangman
+        1. Mark The Letters (Active)
+        2. Find The Words (Active)
+        3. Image Grid (Active)
+        4. Hangman (Active)
     2. H5P Conference
         1. Rikkie Communication
         2. Post Prepare
@@ -29,3 +30,5 @@
     3. Mattermost
     4. Presiding Meeting
     5. New Initiatives
+8. MSSRF
+    1. Crop Mapping ( Active )
